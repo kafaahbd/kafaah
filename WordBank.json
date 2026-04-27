@@ -3,7 +3,7 @@
   "book": { "pos": "noun", "bengali": ["বই", "গ্রন্থ"] },
   "eat": { "pos": "verb", "bengali": ["খাওয়া"] },
   "good": { "pos": "adjective", "bengali": ["ভাল", "সুন্দর"] },
-  "hello": { "pos": "interjection", "bengali": ["হ্যালো", "নমস্কার"] },
+  "hello": { "pos": "interjection", "bengali": ["হ্যালো"] },
   "world": { "pos": "noun", "bengali": ["পৃথিবী", "বিশ্ব"] },
   "আপেল": { "pos": "noun", "english": ["apple"] },
   "আমি": { "pos": "pronoun", "english": ["I", "me"] },
