@@ -37,7 +37,7 @@
 	},
 	"the": {
 		"pos": "article",
-		"bengali": ["টি", "টা"]
+		"bengali": ["টি/টা (নির্দিষ্ট করে বোঝাতে)"]
 	},
 	"a": {
 		"pos": "article",
@@ -645,7 +645,7 @@
 	},
 	"gentle": {
 		"pos": "adjective",
-		"bengali": ["নম্র", "কোমল"]
+		"bengali": ["ভদ্র/নম্র"]
 	},
 	"genuine": {
 		"pos": "adjective",
@@ -1105,7 +1105,7 @@
 	},
 	"mountain": {
 		"pos": "noun",
-		"bengali": ["পর্বত"]
+		"bengali": ["পাহাড়/পর্বত"]
 	},
 	"movement": {
 		"pos": "noun",
@@ -1325,7 +1325,7 @@
 	},
 	"payment": {
 		"pos": "noun",
-		"bengali": ["পরিশোধ"]
+		"bengali": ["পারিশ্রমিক"]
 	},
 	"peace": {
 		"pos": "noun",
@@ -1633,7 +1633,7 @@
 	},
 	"quarter": {
 		"pos": "noun",
-		"bengali": ["চতুর্থাংশ", "২৫ সেন্ট"]
+		"bengali": ["চতুর্থাংশ/পঁচিশ পয়সা"]
 	},
 	"question": {
 		"pos": "noun/verb",
@@ -2061,7 +2061,7 @@
 	},
 	"shock": {
 		"pos": "noun/verb",
-		"bengali": ["স্তূপ", "আঘাত"]
+		"bengali": ["স্তূপ/আঘাত পাওয়া"]
 	},
 	"shortage": {
 		"pos": "noun",
@@ -2161,11 +2161,11 @@
 	},
 	"state": {
 		"pos": "noun/verb",
-		"bengali": ["রাষ্ট্র", "অবস্থা", "বিবৃত করা"]
+		"bengali": ["অবস্থা/বর্ণনা করা"]
 	},
 	"statement": {
 		"pos": "noun",
-		"bengali": ["বিবৃতি", "বক্তব্য"]
+		"bengali": ["বিবৃতি"]
 	},
 	"status": {
 		"pos": "noun",
@@ -2173,7 +2173,7 @@
 	},
 	"steady": {
 		"pos": "adjective",
-		"bengali": ["অবিচল", "ধীরস্থির"]
+		"bengali": ["ধীরস্থির/অবিচল"]
 	},
 	"stimulate": {
 		"pos": "verb",
@@ -2757,7 +2757,7 @@
 	},
 	"work": {
 		"pos": "noun/verb",
-		"bengali": ["কাজ", "পরিশ্রম করা"]
+		"bengali": ["কাজ/কাজ করা"]
 	},
 	"worth": {
 		"pos": "noun/adjective",
@@ -4105,11 +4105,11 @@
 	},
 	"pure": {
 		"pos": "adjective",
-		"bengali": ["বিশুদ্ধ", "খাঁটি"]
+		"bengali": ["বিশুদ্ধ/খাঁটি"]
 	},
 	"purity": {
 		"pos": "noun",
-		"bengali": ["পবিত্রতা", "বিশুদ্ধতা"]
+		"bengali": ["বিশুদ্ধতা"]
 	},
 	"purify": {
 		"pos": "verb",
@@ -4537,11 +4537,11 @@
 	},
 	"child": {
 		"pos": "noun",
-		"bengali": ["শিশু", "সন্তান"]
+		"bengali": ["শিশু"]
 	},
 	"childish": {
 		"pos": "adjective",
-		"bengali": ["ছেলেমানুষি", "অপরিপক্ক"]
+		"bengali": ["শিশুসুলভ"]
 	},
 	"childlike": {
 		"pos": "adjective",
@@ -4565,7 +4565,7 @@
 	},
 	"friendly": {
 		"pos": "adjective",
-		"bengali": ["বন্ধুসুলভ"]
+		"bengali": ["বন্ধুত্বপূর্ণ"]
 	},
 	"friendship": {
 		"pos": "noun",
@@ -5573,11 +5573,11 @@
 	},
 	"worker": {
 		"pos": "noun",
-		"bengali": ["কর্মী"]
+		"bengali": ["শ্রমিক"]
 	},
 	"working": {
-		"pos": "adjective",
-		"bengali": ["চলমান", "কর্মরত"]
+		"pos": "adjective/noun",
+		"bengali": ["কার্যকর/কাজ"]
 	},
 	"workout": {
 		"pos": "noun",
@@ -6369,23 +6369,23 @@
 	},
 	"undersized": {
 		"pos": "adjective",
-		"bengali": ["খুব ছোট বা খাটো"]
+		"bengali": ["স্বাভাবিকের চেয়ে ছোট"]
 	},
 	"homesick": {
 		"pos": "adjective",
-		"bengali": ["গৃহকাতর"]
+		"bengali": ["গৃহকাতর/বাড়ির জন্য মন খারাপ করা"]
 	},
 	"barefooted": {
-		"pos": "adverb/adj",
+		"pos": "adjective/adverb",
 		"bengali": ["খালি পায়ে"]
 	},
 	"kindling": {
 		"pos": "noun",
-		"bengali": ["জ্বালানি কাঠ (ছোট কাঠি)"]
+		"bengali": ["জ্বালানি হিসেবে ছোট কাঠি"]
 	},
 	"integrity": {
 		"pos": "noun",
-		"bengali": ["সততা", "অখণ্ডতা"]
+		"bengali": ["নৈতিক অখণ্ডতা/সততা"]
 	},
 	"splendid": {
 		"pos": "adjective",
@@ -6405,7 +6405,7 @@
 	},
 	"rhythmic": {
 		"pos": "adjective",
-		"bengali": ["ছান্দসিক"]
+		"bengali": ["ছান্দসিক/তালযুক্ত"]
 	},
 	"consistency": {
 		"pos": "noun",
@@ -6432,8 +6432,8 @@
 		"bengali": ["এতিমখানা"]
 	},
 	"orphan": {
-		"pos": "noun/verb",
-		"bengali": ["এতিম", "অনাথ করা"]
+		"pos": "noun",
+		"bengali": ["এতিম/অনাথ"]
 	},
 	"carelessly": {
 		"pos": "adverb",
@@ -6485,7 +6485,7 @@
 	},
 	"bark": {
 		"pos": "verb/noun",
-		"bengali": ["ঘেউ ঘেউ করা", "গাছের ছাল"]
+		"bengali": ["ঘেউ ঘেউ করা/গাছের ছাল"]
 	},
 	"overalls": {
 		"pos": "noun",
@@ -6505,7 +6505,7 @@
 	},
 	"grave": {
 		"pos": "adjective/noun",
-		"bengali": ["গম্ভীর", "কবর"]
+		"bengali": ["গম্ভীর/কবর"]
 	},
 	"repaired": {
 		"pos": "verb (past)",
@@ -6921,7 +6921,7 @@
 	},
 	"pointer": {
 		"pos": "noun",
-		"bengali": ["নির্দেশক", "শিকারি কুকুর"]
+		"bengali": ["এক ধরণের শিকারি কুকুর"]
 	},
 	"malaria": {
 		"pos": "noun",
@@ -6933,7 +6933,7 @@
 	},
 	"fireplace": {
 		"pos": "noun",
-		"bengali": ["আগুন জ্বালাবার চুলা (বড় ঘরে)"]
+		"bengali": ["ঘরের ভেতরের উনুন"]
 	},
 	"rhythmically": {
 		"pos": "adverb",
@@ -6941,7 +6941,7 @@
 	},
 	"steadily": {
 		"pos": "adverb",
-		"bengali": ["একনাগাড়ে"]
+		"bengali": ["একনাগাড়ে/ধীরস্থিরভাবে"]
 	},
 	"woodshop": {
 		"pos": "noun",
@@ -6981,7 +6981,7 @@
 	},
 	"gravity": {
 		"pos": "noun",
-		"bengali": ["গাম্ভীর্য", "মহাকর্ষ"]
+		"bengali": ["গাম্ভীর্য/মহাকর্ষ"]
 	},
 	"solid": {
 		"pos": "adjective",
@@ -8438,202 +8438,621 @@
 	"emerging": {
 		"pos": "adjective",
 		"bengali": ["উদীয়মান"]
+	},
+	"them": {
+		"pos": "pronoun",
+		"bengali": ["তাদেরকে"]
+	},
+	"found": {
+		"pos": "verb (past)",
+		"bengali": ["খুঁজে পেয়েছিল/অস্তিত্ব ছিল"]
+	},
+	"i": {
+		"pos": "pronoun",
+		"bengali": ["আমি"]
+	},
+	"me": {
+		"pos": "pronoun",
+		"bengali": ["আমাকে"]
+	},
+	"my": {
+		"pos": "pronoun",
+		"bengali": ["আমার"]
+	},
+	"mine": {
+		"pos": "pronoun",
+		"bengali": ["আমার নিজের"]
+	},
+	"myself": {
+		"pos": "pronoun",
+		"bengali": ["আমি নিজে"]
+	},
+	"find": {
+		"pos": "verb",
+		"bengali": ["খোঁজা/পাওয়া"]
+	},
+	"finding": {
+		"pos": "noun",
+		"bengali": ["প্রাপ্ত তথ্য/আবিষ্কার"]
+	},
+	"was": {
+		"pos": "verb (past)",
+		"bengali": ["ছিল"]
+	},
+	"were": {
+		"pos": "verb (past)",
+		"bengali": ["ছিল (বহুবচন)"]
+	},
+	"been": {
+		"pos": "verb (past participle)",
+		"bengali": ["হয়েছে/ছিল"]
+	},
+	"being": {
+		"pos": "noun/verb-ing",
+		"bengali": ["সত্তা/হওয়া"]
+	},
+	"wood": {
+		"pos": "noun",
+		"bengali": ["কাঠ"]
+	},
+	"wooden": {
+		"pos": "adjective",
+		"bengali": ["কাঠের তৈরি"]
+	},
+	"wood-cut": {
+		"pos": "verb/noun",
+		"bengali": ["কাঠ কাটা"]
+	},
+	"woodcutter": {
+		"pos": "noun",
+		"bengali": ["কাঠুরিয়া"]
+	},
+	"chopping": {
+		"pos": "verb-ing",
+		"bengali": ["কুচি কুচি করে কাটা"]
+	},
+	"chopped": {
+		"pos": "verb (past)",
+		"bengali": ["কেটেছিল"]
+	},
+	"axe": {
+		"pos": "noun",
+		"bengali": ["কুড়াল"]
+	},
+	"handle": {
+		"pos": "noun/verb",
+		"bengali": ["হাতল/পরিচালনা করা"]
+	},
+	"handled": {
+		"pos": "verb (past)",
+		"bengali": ["সামলেছিল"]
+	},
+	"break": {
+		"pos": "verb",
+		"bengali": ["ভাঙা"]
+	},
+	"broke": {
+		"pos": "verb (past)",
+		"bengali": ["ভেঙেছিল"]
+	},
+	"broken": {
+		"pos": "adjective/verb (past participle)",
+		"bengali": ["ভাঙা/ভগ্ন"]
+	},
+	"breakage": {
+		"pos": "noun",
+		"bengali": ["ভাঙ্গন/ক্ষতি"]
+	},
+	"dishonesty": {
+		"pos": "noun",
+		"bengali": ["অসততা"]
+	},
+	"purely": {
+		"pos": "adverb",
+		"bengali": ["পুরোপুরি/বিশুদ্ধভাবে"]
+	},
+	"cabin": {
+		"pos": "noun",
+		"bengali": ["ছোট কুটির/কেবিন"]
+	},
+	"cottage": {
+		"pos": "noun",
+		"bengali": ["কুটির"]
+	},
+	"stated": {
+		"pos": "verb (past)",
+		"bengali": ["বর্ণনা করেছিল"]
+	},
+	"under": {
+		"pos": "preposition",
+		"bengali": ["নিচে/অধীনে"]
+	},
+	"size": {
+		"pos": "noun",
+		"bengali": ["আকার"]
+	},
+	"bare": {
+		"pos": "adjective",
+		"bengali": ["খালি/অনাবৃত"]
+	},
+	"barely": {
+		"pos": "adverb",
+		"bengali": ["সবেমাত্র/বলতে গেলে না"]
+	},
+	"foot": {
+		"pos": "noun",
+		"bengali": ["পা"]
+	},
+	"feet": {
+		"pos": "noun (plural)",
+		"bengali": ["পাগুলো"]
+	},
+	"come": {
+		"pos": "verb",
+		"bengali": ["আসা"]
+	},
+	"came": {
+		"pos": "verb (past)",
+		"bengali": ["এসেছিল"]
+	},
+	"become": {
+		"pos": "verb",
+		"bengali": ["হওয়া"]
+	},
+	"became": {
+		"pos": "verb (past)",
+		"bengali": ["হয়েছিল"]
+	},
+	"go": {
+		"pos": "verb",
+		"bengali": ["যাওয়া"]
+	},
+	"went": {
+		"pos": "verb (past)",
+		"bengali": ["গিয়েছিল"]
+	},
+	"gone": {
+		"pos": "verb (past participle)",
+		"bengali": ["গিয়েছে"]
+	},
+	"dog": {
+		"pos": "noun",
+		"bengali": ["কুকুর"]
+	},
+	"barked": {
+		"pos": "verb (past)",
+		"bengali": ["ঘেউ ঘেউ করেছিল"]
+	},
+	"fire": {
+		"pos": "noun/verb",
+		"bengali": ["আগুন/আগুন জ্বালানো"]
+	},
+	"firewood": {
+		"pos": "noun",
+		"bengali": ["জ্বালানি কাঠ"]
+	},
+	"kindle": {
+		"pos": "verb",
+		"bengali": ["আগুন জ্বালানো"]
+	},
+	"steadiness": {
+		"pos": "noun",
+		"bengali": ["স্থায়িত্ব"]
+	},
+	"rhythm": {
+		"pos": "noun",
+		"bengali": ["ছন্দ/তাল"]
+	},
+	"small": {
+		"pos": "adjective",
+		"bengali": ["ছোট"]
+	},
+	"smaller": {
+		"pos": "adjective (comparative)",
+		"bengali": ["আরও ছোট"]
+	},
+	"smallest": {
+		"pos": "adjective (superlative)",
+		"bengali": ["সবচেয়ে ছোট"]
+	},
+	"boy": {
+		"pos": "noun",
+		"bengali": ["বালক"]
+	},
+	"children": {
+		"pos": "noun (plural)",
+		"bengali": ["শিশুরা"]
+	},
+	"shocked": {
+		"pos": "verb (past)",
+		"bengali": ["স্তব্ধ হয়েছিল"]
+	},
+	"corn": {
+		"pos": "noun",
+		"bengali": ["ভুট্টা/শস্য"]
+	},
+	"money": {
+		"pos": "noun",
+		"bengali": ["টাকা"]
+	},
+	"monetary": {
+		"pos": "adjective",
+		"bengali": ["আর্থিক"]
+	},
+	"pay": {
+		"pos": "verb/noun",
+		"bengali": ["পরিশোধ করা/বেতন"]
+	},
+	"paid": {
+		"pos": "verb (past)",
+		"bengali": ["পরিশোধ করেছিল"]
+	},
+	"look": {
+		"pos": "verb/noun",
+		"bengali": ["তাকানো/চেহারা"]
+	},
+	"looked": {
+		"pos": "verb (past)",
+		"bengali": ["তাকিয়েছিল"]
+	},
+	"lookout": {
+		"pos": "noun",
+		"bengali": ["সতর্ক পাহারা"]
+	},
+	"see": {
+		"pos": "verb",
+		"bengali": ["দেখা"]
+	},
+	"saw": {
+		"pos": "verb (past)",
+		"bengali": ["দেখেছিল"]
+	},
+	"seen": {
+		"pos": "verb (past participle)",
+		"bengali": ["দেখা হয়েছে এমন"]
+	},
+	"sight": {
+		"pos": "noun",
+		"bengali": ["দৃষ্টিশক্তি/দৃশ্য"]
+	},
+	"man": {
+		"pos": "noun",
+		"bengali": ["মানুষ/পুরুষ"]
+	},
+	"men": {
+		"pos": "noun (plural)",
+		"bengali": ["পুরুষরা"]
+	},
+	"woman": {
+		"pos": "noun",
+		"bengali": ["নারী"]
+	},
+	"women": {
+		"pos": "noun (plural)",
+		"bengali": ["নারীরা"]
+	},
+	"lady": {
+		"pos": "noun",
+		"bengali": ["ভদ্রমহিলা"]
+	},
+	"gently": {
+		"pos": "adverb",
+		"bengali": ["ধীরে/নম্রভাবে"]
+	},
+	"gentleman": {
+		"pos": "noun",
+		"bengali": ["ভদ্রলোক"]
+	},
+	"worked": {
+		"pos": "verb (past)",
+		"bengali": ["কাজ করেছিল"]
+	},
+	"stay": {
+		"pos": "verb/noun",
+		"bengali": ["থাকা/অবস্থান"]
+	},
+	"stayed": {
+		"pos": "verb (past)",
+		"bengali": ["থেকেছিল"]
+	},
+	"home": {
+		"pos": "noun/adverb",
+		"bengali": ["বাড়ি"]
+	},
+	"homely": {
+		"pos": "adjective",
+		"bengali": ["ঘরোয়া/আরামদায়ক"]
+	},
+	"homeless": {
+		"pos": "adjective",
+		"bengali": ["গৃহহীন"]
+	},
+	"give": {
+		"pos": "verb",
+		"bengali": ["দেওয়া"]
+	},
+	"gave": {
+		"pos": "verb (past)",
+		"bengali": ["দিয়েছিল"]
+	},
+	"given": {
+		"pos": "verb (past participle)",
+		"bengali": ["দেওয়া হয়েছে এমন"]
+	},
+	"gift": {
+		"pos": "noun",
+		"bengali": ["উপহার"]
+	},
+	"gifted": {
+		"pos": "adjective",
+		"bengali": ["প্রতিভাবান"]
+	},
+	"take": {
+		"pos": "verb",
+		"bengali": ["নেওয়া"]
+	},
+	"took": {
+		"pos": "verb (past)",
+		"bengali": ["নিয়েছিল"]
+	},
+	"taken": {
+		"pos": "verb (past participle)",
+		"bengali": ["নেওয়া হয়েছে এমন"]
+	},
+	"mother": {
+		"pos": "noun",
+		"bengali": ["মা"]
+	},
+	"motherly": {
+		"pos": "adjective",
+		"bengali": ["মাতৃসুলভ"]
+	},
+	"motherhood": {
+		"pos": "noun",
+		"bengali": ["মাতৃত্ব"]
+	},
+	"father": {
+		"pos": "noun",
+		"bengali": ["বাবা"]
+	},
+	"fatherly": {
+		"pos": "adjective",
+		"bengali": ["পিতৃসুলভ"]
+	},
+	"fatherhood": {
+		"pos": "noun",
+		"bengali": ["পিতৃত্ব"]
+	},
+	"love": {
+		"pos": "noun/verb",
+		"bengali": ["ভালোবাসা/ভালোবাসা দেওয়া"]
+	},
+	"lovely": {
+		"pos": "adjective",
+		"bengali": ["সুন্দর/চমৎকার"]
+	},
+	"loved": {
+		"pos": "verb (past)",
+		"bengali": ["বেসেছিল (ভালো)"]
+	},
+	"befriend": {
+		"pos": "verb",
+		"bengali": ["বন্ধু হওয়া"]
+	},
+	"late": {
+		"pos": "adjective/adverb",
+		"bengali": ["দেরি/প্রয়াত"]
+	},
+	"lately": {
+		"pos": "adverb",
+		"bengali": ["সম্প্রতি"]
+	},
+	"later": {
+		"pos": "adjective/adverb",
+		"bengali": ["পরে"]
+	},
+	"latest": {
+		"pos": "adjective",
+		"bengali": ["সাম্প্রতিকতম"]
+	},
+	"morning": {
+		"pos": "noun",
+		"bengali": ["সকাল"]
+	},
+	"evening": {
+		"pos": "noun",
+		"bengali": ["সন্ধ্যা"]
+	},
+	"night": {
+		"pos": "noun",
+		"bengali": ["রাত"]
+	},
+	"nightly": {
+		"pos": "adjective/adverb",
+		"bengali": ["প্রতি রাতের"]
+	},
+	"noon": {
+		"pos": "noun",
+		"bengali": ["দুপুর"]
+	},
+	"afternoon": {
+		"pos": "noun",
+		"bengali": ["বিকাল"]
+	},
+	"time": {
+		"pos": "noun/verb",
+		"bengali": ["সময়/সময় নির্ধারণ করা"]
+	},
+	"timely": {
+		"pos": "adjective/adverb",
+		"bengali": ["সময়োপযোগী"]
+	},
+	"time-table": {
+		"pos": "noun",
+		"bengali": ["সময়সূচি"]
+	},
+	"day": {
+		"pos": "noun",
+		"bengali": ["দিন"]
+	},
+	"daily": {
+		"pos": "adjective/adverb",
+		"bengali": ["দৈনিক"]
+	},
+	"day-break": {
+		"pos": "noun",
+		"bengali": ["ভোরবেলা"]
+	},
+	"sun": {
+		"pos": "noun",
+		"bengali": ["সূর্য"]
+	},
+	"sunny": {
+		"pos": "adjective",
+		"bengali": ["রৌদ্রোজ্জ্বল"]
+	},
+	"sunset": {
+		"pos": "noun",
+		"bengali": ["সূর্যাস্ত"]
+	},
+	"sunrise": {
+		"pos": "noun",
+		"bengali": ["সূর্যোদয়"]
+	},
+	"mountainous": {
+		"pos": "adjective",
+		"bengali": ["পার্বত্য"]
+	},
+	"hill": {
+		"pos": "noun",
+		"bengali": ["পাহাড় (ছোট)"]
+	},
+	"hilly": {
+		"pos": "adjective",
+		"bengali": ["পাহাড়ী"]
+	},
+	"rock": {
+		"pos": "noun/verb",
+		"bengali": ["পাথর/দোলানো"]
+	},
+	"rocky": {
+		"pos": "adjective",
+		"bengali": ["পাথুরে"]
+	},
+	"tree": {
+		"pos": "noun",
+		"bengali": ["গাছ"]
+	},
+	"treeless": {
+		"pos": "adjective",
+		"bengali": ["গাছপালাহীন"]
+	},
+	"forest": {
+		"pos": "noun",
+		"bengali": ["বন"]
+	},
+	"forester": {
+		"pos": "noun",
+		"bengali": ["বনরক্ষক"]
+	},
+	"cold": {
+		"pos": "adjective/noun",
+		"bengali": ["ঠাণ্ডা/সর্দি"]
+	},
+	"colder": {
+		"pos": "adjective (comparative)",
+		"bengali": ["আরও ঠাণ্ডা"]
+	},
+	"coldly": {
+		"pos": "adverb",
+		"bengali": ["উপেক্ষার সাথে"]
+	},
+	"warm": {
+		"pos": "adjective/verb",
+		"bengali": ["উষ্ণ/গরম করা"]
+	},
+	"warmly": {
+		"pos": "adverb",
+		"bengali": ["উষ্ণভাবে/আন্তরিকভাবে"]
+	},
+	"warmth": {
+		"pos": "noun",
+		"bengali": ["উষ্ণতা"]
+	},
+	"winter": {
+		"pos": "noun",
+		"bengali": ["শীতকাল"]
+	},
+	"wintry": {
+		"pos": "adjective",
+		"bengali": ["শীতকালীন"]
+	},
+	"autumn": {
+		"pos": "noun",
+		"bengali": ["শরৎকাল"]
+	},
+	"spring": {
+		"pos": "noun/verb",
+		"bengali": ["বসন্তকাল/লাফানো"]
+	},
+	"summer": {
+		"pos": "noun",
+		"bengali": ["গ্রীষ্মকাল"]
+	},
+	"summery": {
+		"pos": "adjective",
+		"bengali": ["গ্রীষ্মের মতো"]
+	},
+	"fog": {
+		"pos": "noun",
+		"bengali": ["কুয়াশা"]
+	},
+	"foggy": {
+		"pos": "adjective",
+		"bengali": ["কুয়াশাচ্ছন্ন"]
+	},
+	"mist": {
+		"pos": "noun",
+		"bengali": ["কুয়াশা (হালকা)"]
+	},
+	"misty": {
+		"pos": "adjective",
+		"bengali": ["ঝাপসা/কুয়াশাময়"]
+	},
+	"rain": {
+		"pos": "noun/verb",
+		"bengali": ["বৃষ্টি/বৃষ্টি হওয়া"]
+	},
+	"rainy": {
+		"pos": "adjective",
+		"bengali": ["বৃষ্টিমুখর"]
+	},
+	"rainfall": {
+		"pos": "noun",
+		"bengali": ["বৃষ্টিপাত"]
+	},
+	"cloud": {
+		"pos": "noun/verb",
+		"bengali": ["মেঘ/মেঘে ঢাকা"]
+	},
+	"cloudy": {
+		"pos": "adjective",
+		"bengali": ["মেঘলা"]
+	},
+	"sky": {
+		"pos": "noun",
+		"bengali": ["আকাশ"]
+	},
+	"skylight": {
+		"pos": "noun",
+		"bengali": ["আকাশের আলো"]
+	},
+	"blue": {
+		"pos": "adjective/noun",
+		"bengali": ["নীল"]
+	},
+	"bluish": {
+		"pos": "adjective",
+		"bengali": ["নীলাভ"]
 	}
-}
-{
-  "the": { "pos": "article", "bengali": ["টি/টা (নির্দিষ্ট করে বোঝাতে)"] },
-  "them": { "pos": "pronoun", "bengali": ["তাদেরকে"] },
-  "found": { "pos": "verb (past)", "bengali": ["খুঁজে পেয়েছিল/অস্তিত্ব ছিল"] },
-  "i": { "pos": "pronoun", "bengali": ["আমি"] },
-  "me": { "pos": "pronoun", "bengali": ["আমাকে"] },
-  "my": { "pos": "pronoun", "bengali": ["আমার"] },
-  "mine": { "pos": "pronoun", "bengali": ["আমার নিজের"] },
-  "myself": { "pos": "pronoun", "bengali": ["আমি নিজে"] },
-  "find": { "pos": "verb", "bengali": ["খোঁজা/পাওয়া"] },
-  "finding": { "pos": "noun", "bengali": ["প্রাপ্ত তথ্য/আবিষ্কার"] },
-  "orphan": { "pos": "noun", "bengali": ["এতিম/অনাথ"] },
-  "was": { "pos": "verb (past)", "bengali": ["ছিল"] },
-  "were": { "pos": "verb (past)", "bengali": ["ছিল (বহুবচন)"] },
-  "been": { "pos": "verb (past participle)", "bengali": ["হয়েছে/ছিল"] },
-  "being": { "pos": "noun/verb-ing", "bengali": ["সত্তা/হওয়া"] },
-  "wood": { "pos": "noun", "bengali": ["কাঠ"] },
-  "wooden": { "pos": "adjective", "bengali": ["কাঠের তৈরি"] },
-  "wood-cut": { "pos": "verb/noun", "bengali": ["কাঠ কাটা"] },
-  "woodcutter": { "pos": "noun", "bengali": ["কাঠুরিয়া"] },
-  "chopping": { "pos": "verb-ing", "bengali": ["কুচি কুচি করে কাটা"] },
-  "chopped": { "pos": "verb (past)", "bengali": ["কেটেছিল"] },
-  "axe": { "pos": "noun", "bengali": ["কুড়াল"] },
-  "handle": { "pos": "noun/verb", "bengali": ["হাতল/পরিচালনা করা"] },
-  "handled": { "pos": "verb (past)", "bengali": ["সামলেছিল"] },
-  "break": { "pos": "verb", "bengali": ["ভাঙা"] },
-  "broke": { "pos": "verb (past)", "bengali": ["ভেঙেছিল"] },
-  "broken": { "pos": "adjective/verb (past participle)", "bengali": ["ভাঙা/ভগ্ন"] },
-  "breakage": { "pos": "noun", "bengali": ["ভাঙ্গন/ক্ষতি"] },
-  "honest": { "pos": "adjective", "bengali": ["সৎ"] },
-  "dishonest": { "pos": "adjective", "bengali": ["অসৎ"] },
-  "honesty": { "pos": "noun", "bengali": ["সততা"] },
-  "dishonesty": { "pos": "noun", "bengali": ["অসততা"] },
-  "honestly": { "pos": "adverb", "bengali": ["সততার সাথে"] },
-  "integrity": { "pos": "noun", "bengali": ["নৈতিক অখণ্ডতা/সততা"] },
-  "purity": { "pos": "noun", "bengali": ["বিশুদ্ধতা"] },
-  "pure": { "pos": "adjective", "bengali": ["বিশুদ্ধ/খাঁটি"] },
-  "purely": { "pos": "adverb", "bengali": ["পুরোপুরি/বিশুদ্ধভাবে"] },
-  "cabin": { "pos": "noun", "bengali": ["ছোট কুটির/কেবিন"] },
-  "cottage": { "pos": "noun", "bengali": ["কুটির"] },
-  "orphanage": { "pos": "noun", "bengali": ["এতিমখানা"] },
-  "state": { "pos": "noun/verb", "bengali": ["অবস্থা/বর্ণনা করা"] },
-  "stated": { "pos": "verb (past)", "bengali": ["বর্ণনা করেছিল"] },
-  "statement": { "pos": "noun", "bengali": ["বিবৃতি"] },
-  "under": { "pos": "preposition", "bengali": ["নিচে/অধীনে"] },
-  "size": { "pos": "noun", "bengali": ["আকার"] },
-  "undersized": { "pos": "adjective", "bengali": ["স্বাভাবিকের চেয়ে ছোট"] },
-  "bare": { "pos": "adjective", "bengali": ["খালি/অনাবৃত"] },
-  "barely": { "pos": "adverb", "bengali": ["সবেমাত্র/বলতে গেলে না"] },
-  "barefooted": { "pos": "adjective/adverb", "bengali": ["খালি পায়ে"] },
-  "foot": { "pos": "noun", "bengali": ["পা"] },
-  "feet": { "pos": "noun (plural)", "bengali": ["পাগুলো"] },
-  "come": { "pos": "verb", "bengali": ["আসা"] },
-  "came": { "pos": "verb (past)", "bengali": ["এসেছিল"] },
-  "become": { "pos": "verb", "bengali": ["হওয়া"] },
-  "became": { "pos": "verb (past)", "bengali": ["হয়েছিল"] },
-  "go": { "pos": "verb", "bengali": ["যাওয়া"] },
-  "went": { "pos": "verb (past)", "bengali": ["গিয়েছিল"] },
-  "gone": { "pos": "verb (past participle)", "bengali": ["গিয়েছে"] },
-  "dog": { "pos": "noun", "bengali": ["কুকুর"] },
-  "pointer": { "pos": "noun", "bengali": ["এক ধরণের শিকারি কুকুর"] },
-  "bark": { "pos": "verb/noun", "bengali": ["ঘেউ ঘেউ করা/গাছের ছাল"] },
-  "barked": { "pos": "verb (past)", "bengali": ["ঘেউ ঘেউ করেছিল"] },
-  "fire": { "pos": "noun/verb", "bengali": ["আগুন/আগুন জ্বালানো"] },
-  "fireplace": { "pos": "noun", "bengali": ["ঘরের ভেতরের উনুন"] },
-  "firewood": { "pos": "noun", "bengali": ["জ্বালানি কাঠ"] },
-  "kindle": { "pos": "verb", "bengali": ["আগুন জ্বালানো"] },
-  "kindling": { "pos": "noun", "bengali": ["জ্বালানি হিসেবে ছোট কাঠি"] },
-  "steady": { "pos": "adjective", "bengali": ["ধীরস্থির/অবিচল"] },
-  "steadily": { "pos": "adverb", "bengali": ["একনাগাড়ে/ধীরস্থিরভাবে"] },
-  "steadiness": { "pos": "noun", "bengali": ["স্থায়িত্ব"] },
-  "rhythm": { "pos": "noun", "bengali": ["ছন্দ/তাল"] },
-  "rhythmic": { "pos": "adjective", "bengali": ["ছান্দসিক/তালযুক্ত"] },
-  "rhythmically": { "pos": "adverb", "bengali": ["তালে তালে"] },
-  "small": { "pos": "adjective", "bengali": ["ছোট"] },
-  "smaller": { "pos": "adjective (comparative)", "bengali": ["আরও ছোট"] },
-  "smallest": { "pos": "adjective (superlative)", "bengali": ["সবচেয়ে ছোট"] },
-  "boy": { "pos": "noun", "bengali": ["বালক"] },
-  "child": { "pos": "noun", "bengali": ["শিশু"] },
-  "children": { "pos": "noun (plural)", "bengali": ["শিশুরা"] },
-  "childhood": { "pos": "noun", "bengali": ["শৈশব"] },
-  "childish": { "pos": "adjective", "bengali": ["শিশুসুলভ"] },
-  "shock": { "pos": "noun/verb", "bengali": ["স্তূপ/আঘাত পাওয়া"] },
-  "shocked": { "pos": "verb (past)", "bengali": ["স্তব্ধ হয়েছিল"] },
-  "corn": { "pos": "noun", "bengali": ["ভুট্টা/শস্য"] },
-  "corn-shock": { "pos": "noun", "bengali": ["ভুট্টার আঁটি"] },
-  "quarter": { "pos": "noun", "bengali": ["চতুর্থাংশ/পঁচিশ পয়সা"] },
-  "money": { "pos": "noun", "bengali": ["টাকা"] },
-  "monetary": { "pos": "adjective", "bengali": ["আর্থিক"] },
-  "pay": { "pos": "verb/noun", "bengali": ["পরিশোধ করা/বেতন"] },
-  "paid": { "pos": "verb (past)", "bengali": ["পরিশোধ করেছিল"] },
-  "payment": { "pos": "noun", "bengali": ["পারিশ্রমিক"] },
-  "look": { "pos": "verb/noun", "bengali": ["তাকানো/চেহারা"] },
-  "looked": { "pos": "verb (past)", "bengali": ["তাকিয়েছিল"] },
-  "lookout": { "pos": "noun", "bengali": ["সতর্ক পাহারা"] },
-  "see": { "pos": "verb", "bengali": ["দেখা"] },
-  "saw": { "pos": "verb (past)", "bengali": ["দেখেছিল"] },
-  "seen": { "pos": "verb (past participle)", "bengali": ["দেখা হয়েছে এমন"] },
-  "sight": { "pos": "noun", "bengali": ["দৃষ্টিশক্তি/দৃশ্য"] },
-  "man": { "pos": "noun", "bengali": ["মানুষ/পুরুষ"] },
-  "men": { "pos": "noun (plural)", "bengali": ["পুরুষরা"] },
-  "woman": { "pos": "noun", "bengali": ["নারী"] },
-  "women": { "pos": "noun (plural)", "bengali": ["নারীরা"] },
-  "lady": { "pos": "noun", "bengali": ["ভদ্রমহিলা"] },
-  "gentle": { "pos": "adjective", "bengali": ["ভদ্র/নম্র"] },
-  "gently": { "pos": "adverb", "bengali": ["ধীরে/নম্রভাবে"] },
-  "gentleman": { "pos": "noun", "bengali": ["ভদ্রলোক"] },
-  "grave": { "pos": "adjective/noun", "bengali": ["গম্ভীর/কবর"] },
-  "gravely": { "pos": "adverb", "bengali": ["গম্ভীরভাবে"] },
-  "gravity": { "pos": "noun", "bengali": ["গাম্ভীর্য/মহাকর্ষ"] },
-  "work": { "pos": "noun/verb", "bengali": ["কাজ/কাজ করা"] },
-  "worker": { "pos": "noun", "bengali": ["শ্রমিক"] },
-  "working": { "pos": "adjective/noun", "bengali": ["কার্যকর/কাজ"] },
-  "worked": { "pos": "verb (past)", "bengali": ["কাজ করেছিল"] },
-  "stay": { "pos": "verb/noun", "bengali": ["থাকা/অবস্থান"] },
-  "stayed": { "pos": "verb (past)", "bengali": ["থেকেছিল"] },
-  "home": { "pos": "noun/adverb", "bengali": ["বাড়ি"] },
-  "homely": { "pos": "adjective", "bengali": ["ঘরোয়া/আরামদায়ক"] },
-  "homesick": { "pos": "adjective", "bengali": ["গৃহকাতর/বাড়ির জন্য মন খারাপ করা"] },
-  "homeless": { "pos": "adjective", "bengali": ["গৃহহীন"] },
-  "give": { "pos": "verb", "bengali": ["দেওয়া"] },
-  "gave": { "pos": "verb (past)", "bengali": ["দিয়েছিল"] },
-  "given": { "pos": "verb (past participle)", "bengali": ["দেওয়া হয়েছে এমন"] },
-  "gift": { "pos": "noun", "bengali": ["উপহার"] },
-  "gifted": { "pos": "adjective", "bengali": ["প্রতিভাবান"] },
-  "take": { "pos": "verb", "bengali": ["নেওয়া"] },
-  "took": { "pos": "verb (past)", "bengali": ["নিয়েছিল"] },
-  "taken": { "pos": "verb (past participle)", "bengali": ["নেওয়া হয়েছে এমন"] },
-  "mother": { "pos": "noun", "bengali": ["মা"] },
-  "motherly": { "pos": "adjective", "bengali": ["মাতৃসুলভ"] },
-  "motherhood": { "pos": "noun", "bengali": ["মাতৃত্ব"] },
-  "father": { "pos": "noun", "bengali": ["বাবা"] },
-  "fatherly": { "pos": "adjective", "bengali": ["পিতৃসুলভ"] },
-  "fatherhood": { "pos": "noun", "bengali": ["পিতৃত্ব"] },
-  "love": { "pos": "noun/verb", "bengali": ["ভালোবাসা/ভালোবাসা দেওয়া"] },
-  "lovely": { "pos": "adjective", "bengali": ["সুন্দর/চমৎকার"] },
-  "loved": { "pos": "verb (past)", "bengali": ["বেসেছিল (ভালো)"] },
-  "friend": { "pos": "noun", "bengali": ["বন্ধু"] },
-  "friendly": { "pos": "adjective", "bengali": ["বন্ধুত্বপূর্ণ"] },
-  "friendship": { "pos": "noun", "bengali": ["বন্ধুত্ব"] },
-  "befriend": { "pos": "verb", "bengali": ["বন্ধু হওয়া"] },
-  "late": { "pos": "adjective/adverb", "bengali": ["দেরি/প্রয়াত"] },
-  "lately": { "pos": "adverb", "bengali": ["সম্প্রতি"] },
-  "later": { "pos": "adjective/adverb", "bengali": ["পরে"] },
-  "latest": { "pos": "adjective", "bengali": ["সাম্প্রতিকতম"] },
-  "morning": { "pos": "noun", "bengali": ["সকাল"] },
-  "evening": { "pos": "noun", "bengali": ["সন্ধ্যা"] },
-  "night": { "pos": "noun", "bengali": ["রাত"] },
-  "nightly": { "pos": "adjective/adverb", "bengali": ["প্রতি রাতের"] },
-  "noon": { "pos": "noun", "bengali": ["দুপুর"] },
-  "afternoon": { "pos": "noun", "bengali": ["বিকাল"] },
-  "time": { "pos": "noun/verb", "bengali": ["সময়/সময় নির্ধারণ করা"] },
-  "timely": { "pos": "adjective/adverb", "bengali": ["সময়োপযোগী"] },
-  "time-table": { "pos": "noun", "bengali": ["সময়সূচি"] },
-  "day": { "pos": "noun", "bengali": ["দিন"] },
-  "daily": { "pos": "adjective/adverb", "bengali": ["দৈনিক"] },
-  "day-break": { "pos": "noun", "bengali": ["ভোরবেলা"] },
-  "sun": { "pos": "noun", "bengali": ["সূর্য"] },
-  "sunny": { "pos": "adjective", "bengali": ["রৌদ্রোজ্জ্বল"] },
-  "sunset": { "pos": "noun", "bengali": ["সূর্যাস্ত"] },
-  "sunrise": { "pos": "noun", "bengali": ["সূর্যোদয়"] },
-  "mountain": { "pos": "noun", "bengali": ["পাহাড়/পর্বত"] },
-  "mountainous": { "pos": "adjective", "bengali": ["পার্বত্য"] },
-  "hill": { "pos": "noun", "bengali": ["পাহাড় (ছোট)"] },
-  "hilly": { "pos": "adjective", "bengali": ["পাহাড়ী"] },
-  "rock": { "pos": "noun/verb", "bengali": ["পাথর/দোলানো"] },
-  "rocky": { "pos": "adjective", "bengali": ["পাথুরে"] },
-  "tree": { "pos": "noun", "bengali": ["গাছ"] },
-  "treeless": { "pos": "adjective", "bengali": ["গাছপালাহীন"] },
-  "forest": { "pos": "noun", "bengali": ["বন"] },
-  "forester": { "pos": "noun", "bengali": ["বনরক্ষক"] },
-  "cold": { "pos": "adjective/noun", "bengali": ["ঠাণ্ডা/সর্দি"] },
-  "colder": { "pos": "adjective (comparative)", "bengali": ["আরও ঠাণ্ডা"] },
-  "coldly": { "pos": "adverb", "bengali": ["উপেক্ষার সাথে"] },
-  "warm": { "pos": "adjective/verb", "bengali": ["উষ্ণ/গরম করা"] },
-  "warmly": { "pos": "adverb", "bengali": ["উষ্ণভাবে/আন্তরিকভাবে"] },
-  "warmth": { "pos": "noun", "bengali": ["উষ্ণতা"] },
-  "winter": { "pos": "noun", "bengali": ["শীতকাল"] },
-  "wintry": { "pos": "adjective", "bengali": ["শীতকালীন"] },
-  "autumn": { "pos": "noun", "bengali": ["শরৎকাল"] },
-  "spring": { "pos": "noun/verb", "bengali": ["বসন্তকাল/লাফানো"] },
-  "summer": { "pos": "noun", "bengali": ["গ্রীষ্মকাল"] },
-  "summery": { "pos": "adjective", "bengali": ["গ্রীষ্মের মতো"] },
-  "fog": { "pos": "noun", "bengali": ["কুয়াশা"] },
-  "foggy": { "pos": "adjective", "bengali": ["কুয়াশাচ্ছন্ন"] },
-  "mist": { "pos": "noun", "bengali": ["কুয়াশা (হালকা)"] },
-  "misty": { "pos": "adjective", "bengali": ["ঝাপসা/কুয়াশাময়"] },
-  "rain": { "pos": "noun/verb", "bengali": ["বৃষ্টি/বৃষ্টি হওয়া"] },
-  "rainy": { "pos": "adjective", "bengali": ["বৃষ্টিমুখর"] },
-  "rainfall": { "pos": "noun", "bengali": ["বৃষ্টিপাত"] },
-  "cloud": { "pos": "noun/verb", "bengali": ["মেঘ/মেঘে ঢাকা"] },
-  "cloudy": { "pos": "adjective", "bengali": ["মেঘলা"] },
-  "sky": { "pos": "noun", "bengali": ["আকাশ"] },
-  "skylight": { "pos": "noun", "bengali": ["আকাশের আলো"] },
-  "blue": { "pos": "adjective/noun", "bengali": ["নীল"] },
-  "bluish": { "pos": "adjective", "bengali": ["নীলাভ"] }
 }
