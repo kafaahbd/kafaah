@@ -1,4 +1,397 @@
-{
+{ 
+  "orphanage": {
+    "pos": "noun",
+    "bangla": ["এতিমখানা", "অনাথ আশ্রম"]
+  },
+  "autumn": {
+    "pos": "noun",
+    "bangla": ["শরৎকাল", "হেমন্ত"]
+  },
+  "isolation": {
+    "pos": "noun",
+    "bangla": ["বিচ্ছিন্নতা", "একাকিত্ব", "পৃথকীকরণ"]
+  },
+  "troublesome": {
+    "pos": "adjective",
+    "bangla": ["ঝামেলাপূর্ণ", "বিরক্তিকর", "কষ্টদায়ক"]
+  },
+  "malaria": {
+    "pos": "noun",
+    "bangla": ["ম্যালেরিয়া", "জ্বরবিশেষ"]
+  },
+  "subtropics": {
+    "pos": "noun",
+    "bangla": ["উপক্রান্তীয় অঞ্চল"]
+  },
+  "homesick": {
+    "pos": "adjective",
+    "bangla": ["গৃহহারা", "গৃহবিরহী", "ঘরমুখী (অসুখী)"]
+  },
+  "flaming": {
+    "pos": "adjective",
+    "bangla": ["জ্বলন্ত", "শিখাযুক্ত", "উজ্জ্বল লাল"]
+  },
+  "maples": {
+    "pos": "noun",
+    "bangla": ["ম্যাপল গাছ", "এক প্রকার বৃক্ষ"]
+  },
+  "corn": {
+    "pos": "noun",
+    "bangla": ["ভুট্টা", "শস্য", "গম"]
+  },
+  "shocks": {
+    "pos": "noun",
+    "bangla": ["আঘাত", "ধাক্কা", "খড়ের আটি"]
+  },
+  "pumpkins": {
+    "pos": "noun",
+    "bangla": ["কুমড়া", "মিষ্টিকুমড়া"]
+  },
+  "walnut": {
+    "pos": "noun",
+    "bangla": ["আখরোট", "আখরোট ফল"]
+  },
+  "cabin": {
+    "pos": "noun",
+    "bangla": ["কুটির", "ছোট ঘর", "কেবিন"]
+  },
+  "fireplace": {
+    "pos": "noun",
+    "bangla": ["অগ্নিকুণ্ড", "উনুন", "ফায়ারপ্লেস"]
+  },
+  "typewriter": {
+    "pos": "noun",
+    "bangla": ["টাইপরাইটার", "মুদ্রলেখ যন্ত্র"]
+  },
+  "startled": {
+    "pos": "adjective",
+    "bangla": ["চমকিত", "ভীত-সন্ত্রস্ত", "হতবাক"]
+  },
+  "pointer": {
+    "pos": "noun",
+    "bangla": ["পয়েন্টার কুকুর", "নির্দেশক", "ইশারাকারী"]
+  },
+  "overalls": {
+    "pos": "noun",
+    "bangla": ["ওভারঅল (পোশাক)", "সামগ্রিক ট্রাউজারযুক্ত পোশাক"]
+  },
+  "barefooted": {
+    "pos": "adjective",
+    "bangla": ["খালি পা", "নগ্নপদ"]
+  },
+  "undersized": {
+    "pos": "adjective",
+    "bangla": ["আকারে ছোট", "বেঁটে", "খর্বকায়"]
+  },
+  "chopping": {
+    "pos": "verb",
+    "bangla": ["কুচোনো", "কাটা", "টুকরো করা"]
+  },
+  "gloves": {
+    "pos": "noun",
+    "bangla": ["দস্তানা", "হাতমোজা"]
+  },
+  "skates": {
+    "pos": "noun",
+    "bangla": ["স্কেট (বরফে চলার জুতা)", "চাকা-জুতা"]
+  },
+  "fury": {
+    "pos": "noun",
+    "bangla": ["প্রচণ্ড ক্রোধ", "রাগ", "আক্রোশ"]
+  },
+  "ache": {
+    "pos": "noun/verb",
+    "bangla": ["ব্যথা", "যন্ত্রণা", "ব্যথা করা"]
+  },
+  "ecstasy": {
+    "pos": "noun",
+    "bangla": ["পরমানন্দ", "ভাবাবেশ", "আনন্দময়তা"]
+  },
+  "laurel": {
+    "pos": "noun",
+    "bangla": ["তেজপাতা গাছ", "লরেল", "জয়পত্র"]
+  },
+  "vermilion": {
+    "pos": "noun/adjective",
+    "bangla": ["সিঁদুর", "টকটকে লাল রং", "সিঁদুরে লাল"]
+  },
+  "chestnut": {
+    "pos": "noun",
+    "bangla": ["বাদামি", "চেস্টনাট ফল", "বাদামি রঙ"]
+  },
+  "boughs": {
+    "pos": "noun",
+    "bangla": ["গাছের বড় ডাল", "শাখা"]
+  },
+  "imperial": {
+    "pos": "adjective",
+    "bangla": ["সাম্রাজ্যিক", "রাজকীয়", "মহিমান্বিত"]
+  },
+  "firelight": {
+    "pos": "noun",
+    "bangla": ["আগুনের আলো", "অগ্নিশিখার আলোক"]
+  },
+  "savoring": {
+    "pos": "verb",
+    "bangla": ["স্বাদ গ্রহণ করা", "উপভোগ করা", "আস্বাদন করা"]
+  },
+  "impelled": {
+    "pos": "verb",
+    "bangla": ["চালিত করা", "প্ররোচিত করা", "ঠেলে দেওয়া"]
+  },
+  "yearn": {
+    "pos": "verb",
+    "bangla": ["আকুল হওয়া", "কাতরভাবে কামনা করা", "ব্যাকুল হওয়া"]
+  },
+  "parturition": {
+    "pos": "noun",
+    "bangla": ["প্রসব", "সন্তান জন্মদান"]
+  },
+  "bowels": {
+    "pos": "noun",
+    "bangla": ["অন্ত্র", "নাড়িভুঁড়ি", "অভ্যন্তরভাগ"]
+  },
+  "wholesome": {
+    "pos": "adjective",
+    "bangla": ["স্বাস্থ্যকর", "পুষ্টিকর", "উপকারী"]
+  },
+  "adequate": {
+    "pos": "adjective",
+    "bangla": ["পর্যাপ্ত", "যথেষ্ট", "উপযুক্ত"]
+  },
+  "resentment": {
+    "pos": "noun",
+    "bangla": ["অসন্তোষ", "ক্ষোভ", "বিদ্বেষ"]
+  },
+  "distress": {
+    "pos": "noun/verb",
+    "bangla": ["কষ্ট", "যন্ত্রণা", "বিপন্ন করা"]
+  },
+  "favor": {
+    "pos": "noun/verb",
+    "bangla": ["অনুগ্রহ", "উপকার", "সমর্থন করা"]
+  },
+  "doze": {
+    "pos": "verb",
+    "bangla": ["তন্দ্রা যাওয়া", "ঝিমানি", "হালকা ঘুম"]
+  },
+  "hid": {
+    "pos": "verb",
+    "bangla": ["লুকিয়েছিল", "গোপন করেছিল"]
+  },
+  "crazy": {
+    "pos": "adjective",
+    "bangla": ["পাগল", "উন্মাদ", "অর্থহীন"]
+  },
+  "circles": {
+    "pos": "noun",
+    "bangla": ["বৃত্ত", "চক্র", "গোলাকার পথ"]
+  },
+  "prettiest": {
+    "pos": "adjective",
+    "bangla": ["সবচেয়ে সুন্দর", "অতিমনোহর"]
+  },
+  "goodbye": {
+    "pos": "exclamation/noun",
+    "bangla": ["বিদায়", "আলবিদা", "বিদায় সম্ভাষণ"]
+  },
+  "shone": {
+    "pos": "verb",
+    "bangla": ["উজ্জ্বল ছিল", "দীপ্তিমান ছিল"]
+  },
+  "puppy": {
+    "pos": "noun",
+    "bangla": ["কুকুরছানা", "পপি"]
+  },
+  "Christmas": {
+    "pos": "noun",
+    "bangla": ["বড়দিন", "যিশুর জন্মোৎসব"]
+  },
+  "breath": {
+    "pos": "noun",
+    "bangla": ["শ্বাস", "নিঃশ্বাস", "প্রশ্বাস"]
+  },
+  "suit": {
+    "pos": "noun/verb",
+    "bangla": ["স্যুট", "উপযোগী হওয়া", "মানানসই"]
+  },
+  "plainly": {
+    "pos": "adverb",
+    "bangla": ["স্পষ্টভাবে", "অকপটে", "সাদাসিধেভাবে"]
+  },
+  "proud": {
+    "pos": "adjective",
+    "bangla": ["গর্বিত", "অহংকারী", "মর্যাদাবান"]
+  },
+  "careful": {
+    "pos": "adjective",
+    "bangla": ["সতর্ক", "যত্নশীল", "সাবধানী"]
+  },
+  "circumstance": {
+    "pos": "noun",
+    "bangla": ["পরিস্থিতি", "অবস্থা", "ঘটনাপ্রবাহ"]
+  },
+  "sat": {
+    "pos": "verb",
+    "bangla": ["বসেছিল", "অবস্থান করেছিল"]
+  },
+  "lay": {
+    "pos": "verb",
+    "bangla": ["শোয়ানো", "রাখা", "অনুভূমিক অবস্থায় থাকা"]
+  },
+  "comfort": {
+    "pos": "noun/verb",
+    "bangla": ["আরাম", "স্বস্তি", "সান্ত্বনা দেওয়া"]
+  },
+  "except": {
+    "pos": "preposition/conjunction",
+    "bangla": ["ছাড়া", "ব্যতীত", "কিন্তু"]
+  },
+  "grass": {
+    "pos": "noun",
+    "bangla": ["ঘাস", "তৃণ", "সবুজ মাঠ"]
+  },
+  "hunting": {
+    "pos": "verb/noun",
+    "bangla": ["শিকার করা", "অনুসন্ধান", "শিকার"]
+  },
+  "acted": {
+    "pos": "verb",
+    "bangla": ["আচরণ করেছিল", "অভিনয় করেছিল"]
+  },
+  "flames": {
+    "pos": "noun",
+    "bangla": ["শিখা", "আগুনের লেলিহান", "আবেগ"]
+  },
+  "log": {
+    "pos": "noun/verb",
+    "bangla": ["কাঠের গুড়ি", "নথি", "নথিভুক্ত করা"]
+  },
+  "burns": {
+    "pos": "verb/noun",
+    "bangla": ["পোড়ায়", "জ্বলে", "দগ্ধ ক্ষত"]
+  },
+  "leaving": {
+    "pos": "verb",
+    "bangla": ["ত্যাগ করা", "যাওয়া", "ছেড়ে যাওয়া"]
+  },
+  "tomorrow": {
+    "pos": "adverb/noun",
+    "bangla": ["আগামীকাল", "পরবর্তী দিন"]
+  },
+  "silence": {
+    "pos": "noun",
+    "bangla": ["নীরবতা", "চুপ", "স্তব্ধতা"]
+  },
+  "hill": {
+    "pos": "noun",
+    "bangla": ["পাহাড়", "টিলা", "উঁচু ভূমি"]
+  },
+  "closed": {
+    "pos": "adjective/verb",
+    "bangla": ["বন্ধ", "আবদ্ধ", "বন্ধ করেছিল"]
+  },
+  "key": {
+    "pos": "noun/verb",
+    "bangla": ["চাবি", "মূল", "গুরুত্বপূর্ণ"]
+  },
+  "lately": {
+    "pos": "adverb",
+    "bangla": ["সম্প্রতি", "ইদানীং", "সাম্প্রতিক সময়ে"]
+  },
+  "cry": {
+    "pos": "verb/noun",
+    "bangla": ["কান্না", "চিৎকার", "কাঁদা"]
+  },
+  "whenever": {
+    "pos": "conjunction",
+    "bangla": ["যখনই", "যেকোনো সময়"]
+  },
+  "job": {
+    "pos": "noun",
+    "bangla": ["চাকরী", "কাজ", "পেশা"]
+  },
+  "memory": {
+    "pos": "noun",
+    "bangla": ["স্মৃতি", "স্মরণ", "মনে রাখার ক্ষমতা"]
+  },
+  "shocked": {
+    "pos": "adjective/verb",
+    "bangla": ["বিস্মিত", "হতবিহ্বল", "ধাক্কা দিয়েছিল"]
+  },
+  "disturbed": {
+    "pos": "adjective/verb",
+    "bangla": ["বিক্ষিপ্ত", "অস্থির", "বিঘ্নিত করেছিল"]
+  },
+  "passionate": {
+    "pos": "adjective",
+    "bangla": ["আবেগী", "উত্তপ্ত", "আবেগপূর্ণ"]
+  },
+  "woman": {
+    "pos": "noun",
+    "bangla": ["নারী", "মহিলা", "স্ত্রী"]
+  },
+  "lack": {
+    "pos": "noun/verb",
+    "bangla": ["অভাব", "স্বল্পতা", "না থাকা"]
+  },
+  "blood": {
+    "pos": "noun",
+    "bangla": ["রক্ত", "রুধির", "বংশ"]
+  },
+  "fed": {
+    "pos": "verb",
+    "bangla": ["খাওয়ানো হয়েছিল", "পুষ্ট হয়েছিল"]
+  },
+  "lean": {
+    "pos": "adjective/verb",
+    "bangla": ["রোগা", "কৃশ", "হেলান দেওয়া"]
+  },
+  "payment": {
+    "pos": "noun",
+    "bangla": ["পরিশোধ", "মূল্য পরিশোধ", "পেমেন্ট"]
+  },
+  "darkness": {
+    "pos": "noun",
+    "bangla": ["অন্ধকার", "আঁধার", "অস্পষ্টতা"]
+  },
+  "knocked": {
+    "pos": "verb",
+    "bangla": ["ঠক্ঠক্ করেছিল", "ধাক্কা দিয়েছিল"]
+  },
+  "allowed": {
+    "pos": "verb",
+    "bangla": ["অনুমতি দেওয়া হয়েছিল", "অনুমোদিত"]
+  },
+  "late": {
+    "pos": "adjective/adverb",
+    "bangla": ["দেরি", "বিলম্ব", "শেষের দিকে"]
+  },
+  "maybe": {
+    "pos": "adverb",
+    "bangla": ["হয়তো", "সম্ভবত", "কি জানি"]
+  },
+  "story": {
+    "pos": "noun",
+    "bangla": ["গল্প", "কাহিনী", "আখ্যান"]
+  },
+  "true": {
+    "pos": "adjective",
+    "bangla": ["সত্য", "সঠিক", "বাস্তব"]
+  },
+  "assured": {
+    "pos": "adjective/verb",
+    "bangla": ["নিশ্চিত", "প্রতিশ্রুত", "আস্থা জন্মানো"]
+  },
+  "relief": {
+    "pos": "noun",
+    "bangla": ["উপশম", "স্বস্তি", "আরাম"]
+  },
+  "managed": {
+    "pos": "verb",
+    "bangla": ["পরিচালনা করেছিল", "সামাল দিয়েছিল", "কৌশলে সম্পন্ন করেছিল"]
+  },
+
 	"apple": {
 		"pos": "noun",
 		"bengali": ["আপেল"]
